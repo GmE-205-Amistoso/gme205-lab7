@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "P-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.511256116,
+              0
+            ],
+            [
+              118.512152016,
+              0
+            ],
+            [
+              118.512152015,
+              0.000901939
+            ],
+            [
+              118.511256115,
+              0.000901938
+            ],
+            [
+              118.511256116,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "P-001",
+        "land_use": "Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-002",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.512331196,
+              0
+            ],
+            [
+              118.513227098,
+              0
+            ],
+            [
+              118.513227097,
+              0.00090194
+            ],
+            [
+              118.512331195,
+              0.000901939
+            ],
+            [
+              118.512331196,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "parcel_id": "P-002",
+        "land_use": "Residential"
+      }
+    }
+  ]
+}
